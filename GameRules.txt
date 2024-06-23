@@ -1,0 +1,13 @@
+Game Rules
+1. You and the computer will each select a car from the available options.
+2. You will select a specification from the available options that you believe will give you the edge.
+3. Once both you and the computer have selected your cars, the game will compare the chosen specification attribute of the two cars. 
+The car with the higher value in the chosen attribute wins the round.
+4. If your car wins the round, you earn a point.
+If the computer's car wins the round, the computer earns a point.
+In case of a tie, no points are awarded.
+5. The game consists of 5 rounds.
+The player with the most points at the end of the 5 rounds wins the game.
+6. After the game ends, you have the option to rematch the computer or exit the game.
+7. Use your automotive knowledge to choose the specification attribute that you believe will give you an advantage over the computer in each round.
+8. The game offers different difficulty levels for the computer opponent, with higher levels providing a more challenging AI opponent.
